@@ -1,0 +1,7 @@
+body {
+    background: #202020;
+}
+
+#amount::-moz-focus-inner {
+    border: 0;
+}
